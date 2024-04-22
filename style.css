@@ -10,7 +10,7 @@ body{
     margin: auto;
 }
 .cataZina{
-    background-color: navy;
+    background-color: rgba(201, 179, 199, 0.709);
     height: 450px;
     padding: 10px;
     overflow: scroll;

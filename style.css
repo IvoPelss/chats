@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://www.thedrive.com/uploads/2024/02/09/Supra-High-Mile-Hero-1.jpg?auto=webp);
+}
+.pamatlaukums{
+    background-color: seagreen;
+    width: 500px;
+    height: 500px;
+    border: 2px solid mediumpurple;
+    padding: 10px;
+    margin: auto;
+}
+.cataZina{
+    background-color: navy;
+    height: 450px;
+    padding: 10px;
+    overflow: scroll;
+    color: olive;
+}
